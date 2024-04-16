@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_register">Register_Activity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_calculator2">CalculatorActivity2</string>
+    <string name="title_activity_simplelistactivity">Simplelistactivity</string>
+    <string name="title_activity_simpleactivity">Simpleactivity</string>
+    <string name="title_activity_simple">SimpleActivity</string>
+    <string name="title_activity_simple_actvity">SimpleActvity</string>
+    <string name="title_activity_simplelist">Simplelist</string>
+    <string name="title_activity_simpleactivty">Simpleactivty</string>
+    <string name="title_activity_customlist">Customlist</string>
+    <string name="title_activity_card">CardActivity</string>
+</resources>
